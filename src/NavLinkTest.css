@@ -1,0 +1,17 @@
+nav a {
+    color : #333;
+    margin-right: 12px;
+    text-decoration: none;
+}
+nav a.active {
+    color: royalblue;
+    font-size: 30px;
+    font-weight: bold;
+}
+.product-list {
+    display: flex;
+    justify-content: center;
+}
+.product-item {
+    padding: 10px;
+}
